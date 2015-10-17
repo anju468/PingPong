@@ -17,4 +17,8 @@ $(document).ready(function() {
     $(".pingpongOutput").show();
     event.preventDefault();
   });
+  $("#play-again").click(function(event) {
+    location.reload(true);
+    event.preventDefault();
+  });
 });
