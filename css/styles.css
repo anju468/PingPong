@@ -3,6 +3,9 @@ body {
 }
 h1 {
   text-align: center;
+  background-color: #4C4C4C;
+  padding: 15px 0;
+  color: #CCCCCC;
 }
 
 #play, #play-again {
