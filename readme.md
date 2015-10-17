@@ -1,13 +1,15 @@
-## Readme
-# Using jquery
-### This program showcases the basics of jquery features
+#### Readme
+# Ping Pong Test
+### This is a user interactive program which will take a number as input from user and display those numbers in a particular fashion post manipulation by jquery. All the numbers divisible by 3 are displayed as "Ping", numbers divisible by 5 are displayed as "Pong" and the numbers divisible by 3 and 5 are displayed as "Ping Pong". all the other numbers are displayed as it is.
 ### Contributors - Anju Purushothaman
 
 ### Set up
-#### The programs loads to page which asks 4 questions to the user about favorite things.
-#### The submit button activates the jquery function to capture the information input by the user and display
+#### The programs loads to page which the user to play Ping pong via a button.
+#### The button activates the jquery function to dispaly a prompt which will intake the user input in form of a number
+#### The jquery processes the number and using a for loop it prepares the list of numbers as per the logic given in the review test.
+#### after the result is displayed play again button is visible which will reload the page and user can input a number again if they wish to play again.
 #### css has features to hide the output unless user inputs the data and other style features for items in html
-#### need some help with github.io page. I couldnt get that done.
+#### The page can be accesses in the github io page with the following link - 
 
 ### technologies used
 #### html, css, javascript, jquery, boostrap
