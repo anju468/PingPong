@@ -1,0 +1,10 @@
+body {
+  background-color: #FAFAFA;
+}
+h1 {
+  text-align: center;
+}
+
+#play, #play-again {
+  background-color: #CCCCCC;
+}
