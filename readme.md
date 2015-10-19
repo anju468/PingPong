@@ -9,7 +9,7 @@
 #### The jquery processes the number and using a for loop it prepares the list of numbers as per the logic given in the review test.
 #### after the result is displayed play again button is visible which will reload the page and user can input a number again if they wish to play again.
 #### css has features to hide the output unless user inputs the data and other style features for items in html
-### The page can be accesses in the github io page with the following link - anju468.github.io/PingPong
+### The page can be accesses in the github io page with the following link - [anju468.github.io/PingPong](https://anju468.github.io/PingPong)
 
 ### technologies used
 #### html, css, javascript, jquery, boostrap
