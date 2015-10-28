@@ -14,11 +14,14 @@ $(document).ready(function() {
               $(".pingpongOutput ul").append("<li>" + (i) + "</li>");
             }
     }
-    $(".pingpongOutput").show();
+      if(!(!isNaN(userInput) && parseInt(Number(userInput)) === userInput && !isNaN(parseInt(userInput)))) {
+      alert("This is not a number. Please enter a number!")
+    }
+    $(".pingpongOutput").show(1000).slideDown();
     event.preventDefault();
   });
   $("#play-again").click(function(event) {
-    location.reload(true);
-    event.preventDefault();
+    // location.reload(false);
+    $("#play").click();
   });
 });
