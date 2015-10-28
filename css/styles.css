@@ -1,13 +1,19 @@
 body {
-  background-color: #FAFAFA;
+  background-color: #EAD6FF;
 }
 h1 {
   text-align: center;
   background-color: #4C4C4C;
   padding: 15px 0;
-  color: #CCCCCC;
+  color: #EAD6FF;
 }
 
 #play, #play-again {
-  background-color: #CCCCCC;
+  margin-top: 10px;
+  background-color: #CBB9DD
+;
+}
+
+.buttoncenter {
+  text-align: center;
 }
